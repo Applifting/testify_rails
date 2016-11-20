@@ -10,7 +10,7 @@ Add the gem into gemfile into test (and possibly development) group:
 
 ```ruby
 group :development, :test do
-  gem 'testify-rails'
+  gem 'testify_rails'
 end
 ```
 
