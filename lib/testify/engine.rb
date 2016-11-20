@@ -1,6 +1,3 @@
-require 'slim'
-require 'less-rails'
-
 module Testify
   class Engine < ::Rails::Engine
     isolate_namespace Testify
