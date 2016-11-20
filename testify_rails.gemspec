@@ -5,7 +5,7 @@ require "testify/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "testify-rails"
+  s.name        = "testify_rails"
   s.version     = Testify::VERSION
   s.authors     = [""]
   s.email       = ["info@applifting.com"]
